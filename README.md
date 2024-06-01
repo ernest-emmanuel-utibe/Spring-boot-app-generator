@@ -24,6 +24,3 @@ This repository contains a script to generate a new Spring Boot application.
 5. Build and run the application with Docker:
    ```sh
    docker-compose up --build
-
-You can also fork the repo. Thank you
-   
