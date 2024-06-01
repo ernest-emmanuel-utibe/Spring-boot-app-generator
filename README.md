@@ -10,7 +10,7 @@ This repository contains a script to generate a new Spring Boot application.
    cd spring-boot-app-generator
 
 
-2. Make sure the script is executable:
+2. Make sure the script is executable by typing:
    ```sh
     chmod +x create-spring-boot-app.sh
 
